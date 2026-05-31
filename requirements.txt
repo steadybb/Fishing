@@ -1,0 +1,8 @@
+flask
+gunicorn
+requests
+dnspython
+cryptography
+paho-mqtt
+websocket-client
+boto3
