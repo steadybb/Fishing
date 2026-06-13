@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""
+""" 
 Device Code Token Harvester – Render Web Service
 -------------------------------------------------
 Red Team Tool – Authorized Testing Only
